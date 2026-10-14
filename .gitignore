@@ -1,0 +1,7 @@
+.venv/
+samples/
+processed/
+models/
+malicious-packages/
+malicious-software-packages-dataset/
+top-pypi-packages/
